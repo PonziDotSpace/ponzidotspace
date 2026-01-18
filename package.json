@@ -1,0 +1,16 @@
+{
+  "name": "ponzi-rewards-bot",
+  "version": "1.0.0",
+  "description": "Automated rewards distribution for PONZI token holders",
+  "main": "ponzi-rewards-bot.js",
+  "scripts": {
+    "start": "node ponzi-rewards-bot.js"
+  },
+  "keywords": ["solana", "crypto", "rewards"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.87.6",
+    "bs58": "^5.0.0"
+  }
+}
